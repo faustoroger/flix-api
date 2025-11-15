@@ -29,6 +29,7 @@ NATIONALITY_CHOICES = (
     ("HUNGRIA", "Hungary"),
     ("ÍNDIA", "India"),
     ("INDONÉSIA", "Indonesia"),
+    ("INGLATERRA", "England"),
     ("IRÃ", "Iran"),
     ("IRAQUE", "Iraq"),
     ("IRLANDA", "Ireland"),
