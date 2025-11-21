@@ -1,4 +1,3 @@
-from django import views
 from django.db.models import Avg, Count
 from rest_framework import generics, response, status, views
 from rest_framework.permissions import IsAuthenticated
