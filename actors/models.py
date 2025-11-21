@@ -2,6 +2,7 @@ from django.db import models
 
 NATIONALITY_CHOICES = (
     ("AFEGANISTÃO", "Afghanistan"),
+    ("ÁFRICA DO SUL", "South Africa"),
     ("ALEMANHA", "Germany"),
     ("ARGENTINA", "Argentina"),
     ("AUSTRÁLIA", "Australia"),
